@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004956367436",
+    "firebase_url": "https://statecapitalsquiz.firebaseio.com",
+    "project_id": "statecapitalsquiz",
+    "storage_bucket": "statecapitalsquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004956367436:android:113d8103cca8f40d",
+        "android_client_info": {
+          "package_name": "com.example.steve.statecapitalsquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004956367436-gm0nfbejp8t6ddd1knv83hcm17l9v04h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steve.statecapitalsquiz",
+            "certificate_hash": "521bb0468b7972de8687a38ca322866601034b50"
+          }
+        },
+        {
+          "client_id": "1004956367436-fmcm6akr3b7m4b41t1bf4llvi9vevuqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-KY2vaiLa5KYz3RHRb71jF968aeaD3wk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004956367436-fmcm6akr3b7m4b41t1bf4llvi9vevuqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StateCapitalsQuiz</string>
+    <string name="question1">The capital of Florida is Miami.</string>
+    <string name="hint1">Have you ever heard of Talahassee?</string>
+    <string name="question2">The capital of Illinois is Springfield.</string>
+    <string name="hint2">The city that the Simpsons live in has this same name.</string>
+    <string name="question3">The capital of Louisiana is New Orleans.</string>
+    <string name="hint3">Think of a red stick.</string>
+    <string name="question4">The capital of Texas is Dallas.</string>
+    <string name="hint4">Ooostin. Could be the name of 2 different cities in Texas!</string>
+    <string name="question5">The capital of California is Sacramento.</string>
+    <string name="hint5">It\'s a religious ritual to bless your foot finger.</string>
+    <string name="true_button">Yaaaaas!!!</string>
+    <string name="false_button">Nah, brah.</string>
+    <string name="prev_button">Previous Question</string>
+    <string name="next_button">Done.  Go on.</string>
+    <string name="answer_button">I need a hint.</string>
+    <string name="back_button">Go back...</string>
+    <string name="showAnswer_button">Show me the answer!</string>
+    <string name="hint_button">Show me the hint!</string>
+    <string name="confirmText_view">Are you sure you want a hint?</string>
+    <string name="answerText_view">The answer should go here.</string>
+    <string name="hint_text_view">The hint should go here.</string>
+    <string name="score_text_view">Score: </string>
+    <string name="high_score_text_view">High Score: </string>
+
+    <string name="correct_toast">Huzzah! You are SOOOOO correct!</string>
+    <string name="incorrect_toast">Wah-wah. You need to review your geography. Study harder!</string>
+</resources>
